@@ -1,0 +1,23 @@
+{
+  "name": "compare-versions",
+  "description": "To compare two version strings",
+  "main": "compareVersions.js",
+  "moduleType": [],
+  "keywords": [
+    "compare",
+    "two",
+    "versions"
+  ],
+  "authors": [
+    "Sai Giridhar P"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
