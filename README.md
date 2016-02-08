@@ -19,11 +19,15 @@ compareVersions('1.0.3', '1.0.2')  ->  returns -1
 
 ### Node.js   
 
-npm install compare-two-versions --save    
+```sh
+$ npm install compare-two-versions --save    
+```
 
 ### Bower    
 
-bower install compare-two-versions --save   
+```sh
+$ bower install compare-two-versions --save   
+```
 
 ## To include
 
